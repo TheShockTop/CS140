@@ -1,0 +1,17 @@
+Script started on Fri 30 Sep 2016 09:08:22 AM PDT
+]0;bentonliu@abbott:~/cs140/Assignment1[01;32mbentonliu@abbott[01;34m ~/cs140/Assignment1 $[00m javac Liu_Program1.java
+]0;bentonliu@abbott:~/cs140/Assignment1[01;32mbentonliu@abbott[01;34m ~/cs140/Assignment1 $[00m java Liu_Program1.[K
+Hello World!
+Here are some favorite things of Benton Liu:
+
+     1. Video Game
+     Counter-Strike: Global Offensive
+     2. Film
+     Women in Black
+     3.Song
+     Sakura - R3hab
+
+]0;bentonliu@abbott:~/cs140/Assignment1[01;32mbentonliu@abbott[01;34m ~/cs140/Assignment1 $[00m exit
+exit
+
+Script done on Fri 30 Sep 2016 09:08:40 AM PDT
