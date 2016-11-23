@@ -1,0 +1,25 @@
+Script started on Fri 30 Sep 2016 08:39:19 AM PDT
+]0;bentonliu@abbott:~/cs140[01;32mbentonliu@abbott[01;34m ~/cs140 $[00m pwd
+/user/bentonliu/cs140
+]0;bentonliu@abbott:~/cs140[01;32mbentonliu@abbott[01;34m ~/cs140 $[00m ls
+Example.class  Example.java  Example.txt
+]0;bentonliu@abbott:~/cs140[01;32mbentonliu@abbott[01;34m ~/cs140 $[00m cat Example.java
+// Benton Liu
+// 30-Sept-2016
+public class Example
+{
+	public static void main(String[] args)
+	{
+		System.out.print("This is an example Java program");
+		System.out.println();
+		System.out.println(" ...a very SIMPLE one...");
+	}
+}
+]0;bentonliu@abbott:~/cs140[01;32mbentonliu@abbott[01;34m ~/cs140 $[00m javac Example.java
+]0;bentonliu@abbott:~/cs140[01;32mbentonliu@abbott[01;34m ~/cs140 $[00m Ex[K[Kjava Example.[K
+This is an example Java program
+ ...a very SIMPLE one...
+]0;bentonliu@abbott:~/cs140[01;32mbentonliu@abbott[01;34m ~/cs140 $[00m exit
+exit
+
+Script done on Fri 30 Sep 2016 08:39:47 AM PDT
